@@ -10,7 +10,7 @@ A challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 
 ### Links
 
--   [Live Site](https://your-live-site-url.com)
+-   [Live Site](https://fm-job-listings.vercel.app/)
 -   [Solution](https://www.frontendmentor.io/profile/boedegoat)
 
 <!-- ### The challenge -->
@@ -23,6 +23,7 @@ A challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 -   Mobile-first workflow
 -   Tailwind CSS
 -   React
+-   Little State Machine (Redux but more simpler)
 
 ### Useful Resources
 
